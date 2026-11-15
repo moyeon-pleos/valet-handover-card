@@ -1,0 +1,11 @@
+build/
+.gradle/
+local.properties
+.idea/
+*.iml
+.kotlin/
+captures/
+__pycache__/
+tools/voice/wav/
+tools/voice/spool/
+tools/voice/logcat_full.txt
