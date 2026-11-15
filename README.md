@@ -6,7 +6,7 @@
 
 ## APK 위치
 - release APK: [`apk/모연_대리인계카드_release.apk`](apk/모연_대리인계카드_release.apk)
-- 시연 영상(에뮬레이터 화면 녹화): 이 저장소의 [Releases](../../releases) 에 있는 `모연_대리인계카드_시연.mp4`
+- 시연 영상(에뮬레이터 화면 녹화): [`video/모연_대리인계카드_시연.mp4`](video/모연_대리인계카드_시연.mp4)
 
 ## 테스트 환경
 - Pleos Connect 에뮬레이터 v2.1.0 (Android API 34, 화면 2560×1440) — 설치 안내: https://document.pleos.ai/docs/connect/guide/getting-started/application-development/setup-connect-sdk-emulator
